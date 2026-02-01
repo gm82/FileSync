@@ -31,7 +31,7 @@ services:
     restart: unless-stopped
 
   filesync:
-    image: poliuscorp/filesync
+    image: gm82/filesync
     container_name: filesync-app
     environment:
       - SECRET_KEY=<SECRET_KEY>
