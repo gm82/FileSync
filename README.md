@@ -5,7 +5,7 @@
 **Send files from one device to many in real-time**
 
 <p align="center">
-<a href="https://github.com/polius/filesync/actions/workflows/release.yml"><img src="https://github.com/polius/filesync/actions/workflows/release.yml/badge.svg"></a>&nbsp;<a href="https://github.com/polius/filesync/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/polius/filesync"></a>&nbsp;<a href="https://hub.docker.com/r/poliuscorp/filesync"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/poliuscorp/filesync"></a>
+<a href="https://github.com/gm82/filesync/actions/workflows/release.yml"><img src="https://github.com/gm82/filesync/actions/workflows/release.yml/badge.svg"></a>&nbsp;<a href="https://github.com/gm82/filesync/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/gm82/filesync"></a>&nbsp;<a href="https://hub.docker.com/r/gm82/filesync"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/gm82/filesync"></a>
 </p>
 
 <br>
